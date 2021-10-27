@@ -17,7 +17,7 @@ const AdminSidebar = () => {
     {/* Sidebar user panel (optional) */}
     <div className="user-panel mt-3 pb-3 mb-3 d-flex">
       <div className="image">
-        <Image src="/dist/img/user2-160x160.jpg" className="img-circle elevation-2" alt="User Image" width={50} height={50} />
+        <Image src="https://i.pinimg.com/originals/3d/6e/88/3d6e88280b29a98fb2dbeb82dd30d420.gif" className="img-circle elevation-2" alt="User Image" width={50} height={50} />
       </div>
       <div className="info">
       <Link href='#'>
