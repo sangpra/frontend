@@ -8,7 +8,7 @@ const AdminSidebar = () => {
   {/* Brand Logo */}
   <Link href='#'>
   <a className="brand-link">
-    <Image src="/dist/img/AdminLTELogo.png" alt="AdminLTE Logo" className="brand-image img-circle elevation-3" style={{opacity: '.8'}} width={20} height={20} />
+    <Image src="" alt="AdminLTE Logo" className="brand-image img-circle elevation-3" style={{opacity: '.8'}} width={20} height={20} />
     <span className="brand-text font-weight-light">MorningMorning</span>
   </a>
   </Link>
